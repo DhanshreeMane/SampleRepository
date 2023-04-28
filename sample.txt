@@ -1,2 +1,2 @@
-this is sample document
+this is sample document for checking if changes are reflected
 to learn git & github
