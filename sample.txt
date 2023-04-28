@@ -1,0 +1,2 @@
+this is sample document
+to learn git & github
